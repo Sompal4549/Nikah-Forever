@@ -1,2 +1,2 @@
-console.log("hello world");
+// console.log("hello world");
 document.addEventListener("touchstart", onTouchStart, { passive: true });
